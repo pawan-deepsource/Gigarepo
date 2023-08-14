@@ -10,10 +10,4 @@ name = "go"
 name = "scala"
 
 [[analyzers]]
-name = "php"
-
-[[analyzers]]
-name = "cxx"
-
-[[analyzers]]
 name = "csharp"
